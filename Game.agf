@@ -1557,7 +1557,7 @@ Fred: Then you will say bwak me, [But I wont bwak!
 Fred: Bwaking you is my purpose, [Now bwak me if you can!
   punchs[0] = "You/wanted to/bwak/with/me,/I/will/bwak you/like/bwak";
   punchs[1] = "Then/you/will/say/bwak/me,/But/I/won't/bwak!";
-  punchs[2] = "Bwaking you/is/my/purpose,/Now/bwak me/if/you can!";
+  punchs[2] = "Bwaking you/is/my/purpose,/Now/bwak me/if/you can!//";
   word_index[0] = "FFTFFFFTFT";
   word_index[1] = "FFFFTFFFFT";
   word_index[2] = "TFFTFTFTFF";
@@ -2983,8 +2983,8 @@ stop]]></Script>
                 <FileLastModifiedDate>2012-02-10 13:06:18Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aLostCraftHowl</ScriptName>
                 <SourceFileName xml:space="preserve">C:\Users\Björn 'Ghost' Ludwig\Desktop\Mythaumatology Assets\Assets\LostCraftHowl.wav</SourceFileName>
+                <ScriptName>aLostCraftHowl</ScriptName>
                 <Index>2</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -2995,8 +2995,8 @@ stop]]></Script>
                 <FileLastModifiedDate>2012-02-10 13:06:18Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aRadioNoise</ScriptName>
                 <SourceFileName xml:space="preserve">C:\Users\Björn 'Ghost' Ludwig\Desktop\Mythaumatology Assets\Assets\RadioNoise.WAV</SourceFileName>
+                <ScriptName>aRadioNoise</ScriptName>
                 <Index>3</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -3036,16 +3036,16 @@ stop]]></Script>
         <BackwardsCompatibilityType>True</BackwardsCompatibilityType>
       </AudioClipType>
       <AudioClipType>
-        <Name>Music</Name>
         <TypeID>2</TypeID>
+        <Name>Music</Name>
         <MaxChannels>1</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>30</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
         <BackwardsCompatibilityType>True</BackwardsCompatibilityType>
       </AudioClipType>
       <AudioClipType>
-        <Name>Sound</Name>
         <TypeID>3</TypeID>
+        <Name>Sound</Name>
         <MaxChannels>0</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
