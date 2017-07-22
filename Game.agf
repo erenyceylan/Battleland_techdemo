@@ -1557,7 +1557,7 @@ Fred: Then you will say bwak me, [But I wont bwak!
 Fred: Bwaking you is my purpose, [Now bwak me if you can!
   punchs[0] = "You/wanted to/bwak/with/me,/I/will/bwak you/like/bwak";
   punchs[1] = "Then/you/will/say/bwak/me,/But/I/won't/bwak!";
-  punchs[2] = "Bwaking you/is/my/purpose,/Now/bwak me/if/you can!//";
+  punchs[2] = "Bwaking you/is/my/purpose,/Now/bwak me/if/you can!/ / ";
   word_index[0] = "FFTFFFFTFT";
   word_index[1] = "FFFFTFFFFT";
   word_index[2] = "TFFTFTFTFF";
