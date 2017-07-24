@@ -74,7 +74,7 @@
       <SaveGameFileExtension />
       <SaveGameFolderName xml:space="preserve">Battleland TechDemo</SaveGameFolderName>
       <BinaryFilesInSourceControl>False</BinaryFilesInSourceControl>
-      <AudioIndexer>3</AudioIndexer>
+      <AudioIndexer>5</AudioIndexer>
       <BuildTargets xml:space="preserve">Windows, Linux</BuildTargets>
     </Settings>
     <LipSync>
@@ -1558,10 +1558,16 @@ Fred: Bwaking you is my purpose, [Now bwak me if you can!
   punchs[0] = "You/wanted to/bwak/with/me,/I/will/bwak you/like/bwak";
   punchs[1] = "Then/you/will/say/bwak/me,/But/I/won't/bwak!";
   punchs[2] = "Bwaking you/is/my/purpose,/Now/bwak me/if/you can!/ / ";
-  word_index[0] = "FFTFFFFTFT";
-  word_index[1] = "FFFFTFFFFT";
-  word_index[2] = "TFFTFTFTFF";
+  word_index[0] = "FFTFFFFTFF";
+  word_index[1] = "FFFTTFFFFT";
+  word_index[2] = "TFFFFTFFFF";
   combat(cFred);
+  repunchs[0] = "repunch1/";
+  repunchs[1] = "repunch2/";
+  repunchs[2] = "repunch3/";
+  repunchs[3] = "fail1/";
+  repunchs[4] = "fail2/";
+  repunchs[5] = "fail3/";
 stop]]></Script>
             <DialogOptions />
           </Dialog>
@@ -3005,6 +3011,30 @@ stop]]></Script>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
                 <FileLastModifiedDate>1999-02-11 21:58:18Z</FileLastModifiedDate>
+              </AudioClip>
+              <AudioClip>
+                <ScriptName>aApplause</ScriptName>
+                <SourceFileName>C:\Users\eren\Downloads\applause.wav</SourceFileName>
+                <Index>4</Index>
+                <Type>3</Type>
+                <BundlingType>InGameEXE</BundlingType>
+                <FileType>WAV</FileType>
+                <DefaultVolume>-1</DefaultVolume>
+                <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
+                <FileLastModifiedDate>2017-07-24 06:32:23Z</FileLastModifiedDate>
+              </AudioClip>
+              <AudioClip>
+                <ScriptName>aBoooo</ScriptName>
+                <SourceFileName>C:\Users\eren\Downloads\boooo.wav</SourceFileName>
+                <Index>5</Index>
+                <Type>3</Type>
+                <BundlingType>InGameEXE</BundlingType>
+                <FileType>WAV</FileType>
+                <DefaultVolume>-1</DefaultVolume>
+                <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
+                <FileLastModifiedDate>2017-07-24 06:30:10Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
