@@ -1,6 +1,6 @@
 // new module header
 
-import function combat(Character* CharID);
+import function combat(Character* CharID, Dialog* dialog_name);
 import function battle_points(int btn_id);
 import function answer();
 import String word_index[3];
