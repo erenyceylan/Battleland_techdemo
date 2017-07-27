@@ -3,7 +3,7 @@
 <AGSEditorDocument Version="3.0.3.2" VersionIndex="13" EditorVersion="3.4.0">
   <Game>
     <Settings>
-      <GameName xml:space="preserve">Battleland TechDemo</GameName>
+      <GameName xml:space="preserve">My First Hiphop Jam</GameName>
       <UniqueID>696153890</UniqueID>
       <GUIDAsString>{c6ea6d2b-549c-494d-aa80-a992085c79fa}</GUIDAsString>
       <ColorDepth>HighColor</ColorDepth>
@@ -64,7 +64,7 @@
       <HasMODMusic>False</HasMODMusic>
       <GameExplorerEnabled>False</GameExplorerEnabled>
       <Description />
-      <ReleaseDate>2007-08-19</ReleaseDate>
+      <ReleaseDate>2007-07-29</ReleaseDate>
       <Genre>Adventure</Genre>
       <Version>1.0.0.0</Version>
       <WindowsExperienceIndex>1</WindowsExperienceIndex>
@@ -72,7 +72,7 @@
       <DeveloperURL />
       <EnhancedSaveGames>False</EnhancedSaveGames>
       <SaveGameFileExtension />
-      <SaveGameFolderName xml:space="preserve">Battleland TechDemo</SaveGameFolderName>
+      <SaveGameFolderName xml:space="preserve">My First Hiphop Jam</SaveGameFolderName>
       <BinaryFilesInSourceControl>False</BinaryFilesInSourceControl>
       <AudioIndexer>5</AudioIndexer>
       <BuildTargets xml:space="preserve">Windows, Linux</BuildTargets>
